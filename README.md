@@ -171,7 +171,9 @@ I engineer **scalable digital ecosystems** across software, infrastructure, auto
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andreidohot&theme=onestar&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://img.shields.io/badge/Focus-High%20Performance%20Systems-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Expertise-Software%20%7C%20Servers%20%7C%20AI-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Specialty-Automation%20Workflows-black?style=for-the-badge"/>
 </p>
 
 ---
