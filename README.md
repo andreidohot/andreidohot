@@ -1,285 +1,505 @@
-<!--
-  GitHub Profile README
-  Repository: https://github.com/andreidohot/andreidohot
--->
+<p align="center">
+  <img src="./banner.png" alt="Andrei Dohot GitHub profile banner"/>
+</p>
+
+<h1 align="center">
+  👋 Hello, I'm Andrei Dohot
+</h1>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,45:091E3A,75:0B5ED7,100:00E5FF&text=ANDREI%20DOHOT&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Founder%20%26%20Creator%20of%20Alvenqis%20Network&descAlignY=58&descSize=20&animation=fadeIn"
-    width="100%"
-    alt="Andrei Dohot — Founder and Creator of Alvenqis Network"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&lines=Digital+Systems+Architect;Full-Stack+Engineer;Blockchain+Layer+1+Creator;Android+%26+iOS+Developer;Servers+%26+Infrastructure+Specialist;Automation+%26+AI-Assisted+Engineering;Discord+Bot+Developer"
+    alt="Professional roles"
   />
-</p>
-
-<p align="center">
-  <a href="https://github.com/andreidohot/Alvenqis-Network-Main">
-    <img src="https://img.shields.io/badge/Founder%20%26%20Creator-Alvenqis%20Network-00E5FF?style=for-the-badge&labelColor=050816" alt="Founder and Creator of Alvenqis Network"/>
-  </a>
-  <img src="https://img.shields.io/badge/Blockchain-Layer%201-3B82F6?style=for-the-badge&labelColor=050816" alt="Layer 1 Blockchain"/>
-  <img src="https://img.shields.io/badge/Core-Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white&labelColor=050816" alt="Rust"/>
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=850&color=00E5FF&center=true&vCenter=true&width=900&lines=Founder+%26+Creator+of+Alvenqis+Network;Layer+1+Blockchain+Architect;Rust+%7C+Proof+of+Work+%7C+GPU+Mining;Android+%26+iOS+Developer;Infrastructure+%26+Full-Stack+Engineer"
-    alt="Typing introduction"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/andreidohot">
-    <img src="https://img.shields.io/github/followers/andreidohot?style=for-the-badge&logo=github&label=Followers&labelColor=050816&color=2563EB" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/andreidohot/Alvenqis-Network-Main">
-    <img src="https://img.shields.io/github/stars/andreidohot/Alvenqis-Network-Main?style=for-the-badge&logo=github&label=Alvenqis%20Stars&labelColor=050816&color=00B8D9" alt="Alvenqis stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=andreidohot&style=for-the-badge&color=0B5ED7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
 
-## `01.` Identity
-
-I am **Andrei Dohot**, a blockchain, Android and iOS developer focused on building complete digital products, distributed infrastructure and independent protocol systems.
-
-I am the **Founder, Creator and Lead Architect of [Alvenqis Network](https://github.com/andreidohot/Alvenqis-Network-Main)** — an independent **Layer 1 blockchain** developed from its own Rust-based protocol implementation.
-
-Alvenqis is not an ERC-20 token, a Solana token or a blockchain-branded centralized database. It is being engineered as a complete ecosystem with its own blockchain core, consensus rules, node runtime, peer-to-peer networking, wallet infrastructure, GPU mining software, RPC services, indexer, explorer and desktop control tooling.
-
-```text
-BUILD THE PROTOCOL.
-VERIFY THE STATE.
-OWN THE INFRASTRUCTURE.
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital%20Systems-Elite%20Builder-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Architect-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blockchain-Layer%201-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile-Android%20%26%20iOS-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Infrastructure-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Code%20Review-000000?style=for-the-badge"/>
+</p>
 
 ---
 
-## `02.` Featured Project — Alvenqis Network
+# 🚀 Identity
+
+I engineer **scalable digital ecosystems** across software, blockchain, mobile applications, infrastructure, automation, AI-assisted workflows and visual precision.
+
+I am the **Founder and Creator of [Alvenqis Network](https://github.com/andreidohot/Alvenqis-Network-Main)**, an independent Layer 1 blockchain built in Rust and developed as a complete protocol ecosystem.
+
+My work combines:
+
+⚡ High-Performance Systems  
+⛓️ Blockchain Protocol Engineering  
+📱 Android & iOS Development  
+🌐 Infrastructure & Servers  
+🧠 AI-Assisted Engineering  
+🎨 Visual & UX Sensitivity  
+🚀 Scalable Architectures  
+
+---
+
+# ⛓️ Alvenqis Network
 
 <p align="center">
   <a href="https://github.com/andreidohot/Alvenqis-Network-Main">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=andreidohot&repo=Alvenqis-Network-Main&theme=github_dark&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=3B82F6&text_color=C9D1D9"
-      alt="Alvenqis Network repository"
-    />
+    <img src="https://img.shields.io/badge/Founder%20%26%20Creator-Alvenqis%20Network-00F0FF?style=for-the-badge&labelColor=000000"/>
   </a>
+  <img src="https://img.shields.io/badge/Blockchain-Layer%201-2563EB?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Core-Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Consensus-Proof%20of%20Work-7C3AED?style=for-the-badge&labelColor=000000"/>
 </p>
 
-> **Project status:** Mainnet Candidate / Experimental Prototype
-> Alvenqis Network is under active development and is not currently presented as a public production blockchain.
+I am the **Founder, Creator and Lead Architect of Alvenqis Network**.
 
-| Network property               | Current direction                          |
-| :----------------------------- | :----------------------------------------- |
-| **Project**                    | Alvenqis Network                           |
-| **My role**                    | Founder, Creator & Lead Architect          |
-| **Blockchain type**            | Independent Layer 1                        |
-| **Core implementation**        | Rust                                       |
-| **Ledger model**               | Account-based                              |
-| **Consensus**                  | Proof of Work                              |
-| **Mining algorithm**           | FiroPoW 0.9.4                              |
-| **Official mining direction**  | NVIDIA GPU / CUDA                          |
-| **Native asset**               | ALVE                                       |
-| **Target block time**          | 60 seconds                                 |
-| **Maximum theoretical supply** | 60,000,000 ALVE                            |
-| **Halving interval**           | 1,576,800 blocks — approximately 3 years   |
-| **Current classification**     | Mainnet Candidate / Experimental Prototype |
+Alvenqis is an independent, Rust-based **Proof-of-Work Layer 1 blockchain** under active development. It is being engineered as a complete blockchain ecosystem rather than as a token deployed on another network.
 
-### Core ecosystem
+The project architecture includes:
 
-```mermaid
-flowchart LR
-    A[Alvenqis Core] --> B[Consensus]
-    A --> C[Account Ledger]
-    A --> D[Blocks & Transactions]
-    B --> E[FiroPoW GPU Mining]
-    A --> F[Node Runtime]
-    F --> G[P2P Network]
-    F --> H[RPC Gateway]
-    H --> I[Wallet]
-    H --> J[Indexer]
-    J --> K[Block Explorer]
-    H --> L[Desktop Control Center]
-```
+- Native blockchain core
+- Account-based ledger
+- Consensus and validation rules
+- Blocks and transactions
+- Digital signatures
+- Mempool and fork-choice logic
+- Chain reorganization handling
+- Peer-to-peer networking
+- Node runtime
+- RPC gateway
+- Wallet infrastructure
+- NVIDIA GPU mining
+- FiroPoW validation
+- Indexer
+- Block explorer
+- Desktop Control Center
+- Mining pool research
+- Developer tooling
 
-The current ecosystem direction includes:
+### Network direction
 
-* Native Rust blockchain core
-* Account ledger, transactions and digital signatures
-* Proof-of-Work consensus and difficulty logic
-* FiroPoW validation and NVIDIA CUDA mining
-* Mempool, fork choice and chain reorganization handling
-* Runnable node and peer-to-peer networking prototype
-* RPC gateway, wallet CLI and desktop wallet tooling
-* Indexer and block explorer
-* Mining pool research and controlled testing
-* Future digital assets, NFTs, identity proofs and application infrastructure
+| Property | Current direction |
+|:--|:--|
+| **Project** | Alvenqis Network |
+| **My role** | Founder, Creator & Lead Architect |
+| **Blockchain type** | Independent Layer 1 |
+| **Core implementation** | Rust |
+| **Ledger model** | Account-based |
+| **Consensus** | Proof of Work |
+| **Mining algorithm** | FiroPoW 0.9.4 |
+| **Mining direction** | NVIDIA GPU / CUDA |
+| **Native asset** | ALVE |
+| **Target block time** | 60 seconds |
+| **Maximum theoretical supply** | 60,000,000 ALVE |
+| **Halving interval** | Approximately 3 years |
+| **Current status** | Mainnet Candidate / Experimental Prototype |
 
-### On-chain / off-chain model
+> Alvenqis Network is currently a **Mainnet Candidate / Experimental Prototype**. It is not presented as a public production blockchain, and current ALVE balances or mining rewards must not be treated as real funds, guaranteed value or an investment product.
 
-Alvenqis is designed to keep **ownership, state, hashes, permissions and verifiable proofs on-chain**, while large or private content remains off-chain.
+### On-chain and off-chain architecture
+
+Alvenqis is designed to preserve **ownership, state, hashes, permissions and verifiable proofs on-chain**, while large files, media, encrypted messages and private application data remain off-chain.
 
 ```text
 ON-CHAIN
-balances · ownership · state · hashes · proofs · permissions
+Balances · Ownership · State · Hashes · Proofs · Permissions
 
 OFF-CHAIN
-media · files · encrypted messages · application data · large metadata
+Files · Images · Video · Encrypted Messages · Application Data · Large Metadata
 ```
 
-This architecture is intended to preserve verifiability without forcing every node to permanently replicate large files or private application content.
-
-> **Experimental asset notice:** ALVE balances and mining rewards produced by the current development network are protocol-testing values. They do not represent legal tender, guaranteed value, an investment product or production-ready cryptocurrency funds.
-
----
-
-## `03.` What I Build
-
-### Blockchain & distributed systems
-
-* Layer 1 blockchain architecture
-* Consensus and protocol rules
-* Proof-of-Work systems
-* GPU mining and CUDA integration
-* Nodes and peer-to-peer networking
-* Wallet architecture and transaction signing
-* RPC gateways and developer APIs
-* Indexers and block explorers
-* Digital ownership and proof systems
-* Blockchain security research
-
-### Android & iOS
-
-* Native Android applications with Kotlin
-* Native iOS applications with Swift
-* Cross-platform product architecture
-* Authentication and account systems
-* Secure local storage and synchronization
-* Payments, subscriptions and application monetization
-* Store-ready product planning
-* Mobile-first UI and UX systems
-
-### Full-stack products
-
-* React, Vite and Tailwind applications
-* Node.js backend services
-* PostgreSQL data architecture
-* REST APIs and integrations
-* Admin dashboards and control panels
-* Real-time application workflows
-* Product design and scalable system architecture
-
-### Infrastructure & DevOps
-
-* Linux and VPS administration
-* Docker and Docker Compose
-* Reverse proxies and Cloudflare
-* Deployment automation
-* Monitoring and operational tooling
-* GitHub and self-hosted Git workflows
-* Storage, databases and service architecture
-* Security-oriented infrastructure design
-
----
-
-## `04.` Technology Stack
-
-### Protocol, systems and mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,kotlin,swift,androidstudio" alt="Rust, Kotlin, Swift and Android Studio"/>
-</p>
-
-### Frontend and product interfaces
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,html,css" alt="React, Vite, Tailwind, TypeScript, JavaScript, HTML and CSS"/>
-</p>
-
-### Backend and data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite" alt="Node.js, Express, PostgreSQL and SQLite"/>
-</p>
-
-### Infrastructure and workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,git,github,vscode" alt="Docker, Linux, Cloudflare, Git, GitHub and Visual Studio Code"/>
+<p align="center">
+  <a href="https://github.com/andreidohot/Alvenqis-Network-Main">
+    <img src="https://img.shields.io/badge/Explore-Alvenqis%20Network-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+  </a>
 </p>
 
 ---
 
-## `05.` Current Engineering Focus
+# ⚙️ Core Domains
+
+## ⛓️ Blockchain Engineering
+
+- Layer 1 Blockchain Architecture
+- Rust Protocol Development
+- Proof-of-Work Consensus
+- FiroPoW Validation
+- NVIDIA CUDA Mining
+- Nodes & P2P Networking
+- Wallet Infrastructure
+- Transaction Signing
+- Mempool Logic
+- Fork Choice & Reorganizations
+- RPC Gateways
+- Indexers & Block Explorers
+- Digital Ownership Systems
+- Identity & Authenticity Proofs
+- On-Chain / Off-Chain Architecture
+- Blockchain Security Research
+
+---
+
+## 🧩 Software Engineering
+
+- SaaS Platforms
+- Web Applications
+- Mobile Applications
+- REST APIs
+- Backend Architectures
+- System Design
+- Clean Code & Scalability
+- Distributed Systems
+- Desktop Applications
+- Developer Tooling
+
+---
+
+## 📱 Android & iOS Development
+
+- Native Android Development
+- Native iOS Development
+- Kotlin
+- Swift
+- Mobile Product Architecture
+- Authentication Systems
+- Secure Local Storage
+- API Integration
+- Payments & Subscriptions
+- Store-Ready Product Planning
+- Mobile UI / UX
+- Application Security
+
+---
+
+## 🌐 Infrastructure & DevOps
+
+- Linux Systems
+- Docker & Containers
+- Networking Fundamentals
+- CI/CD Pipelines
+- Deployment Automation
+- Performance Optimization
+- Server Architecture
+- VPS Administration
+- Reverse Proxies
+- Cloudflare
+- PostgreSQL Infrastructure
+- Monitoring & Logging
+- Self-Hosted Services
+
+---
+
+## 🎮 Game / Server Ecosystems
+
+- Minecraft Server Systems
+- FiveM Server Systems
+- Server Optimization
+- Plugin Logic / Systems
+- Multiplayer Infrastructure
+- Game Administration Tools
+- Custom NUI Interfaces
+- Real-Time Server Integrations
+
+---
+
+## 🤖 AI & Automation
+
+- AI-Enhanced Workflows
+- Automation Pipelines
+- Smart Integrations
+- AI-Assisted Development
+- Code Review Workflows
+- Static Analysis Support
+- Architecture Review
+- Refactoring Assistance
+- Documentation Validation
+- Security-Oriented Review
+
+---
+
+## 🤝 Bots & Integrations
+
+- Discord Bot Development
+- Automation Bots
+- API Integrations
+- Role & Permission Systems
+- Dashboard Integrations
+- Webhook Workflows
+- Community Automation
+
+---
+
+## 🎨 Creative & Visual
+
+- Photography
+- UI / UX Precision
+- Branding & Aesthetics
+- Product Interfaces
+- Visual Identity
+- Motion & Interactive Design
+- 3D Web Experiences
+
+---
+
+## 🚗 Automotive & Detailing
+
+- Workflow Optimization
+- Precision-Driven Craft
+- Process Standardization
+- Visual Quality Control
+
+---
+
+# 🧠 AI-Assisted Engineering & Code Review
+
+I use AI as an engineering assistant for **code review, architecture analysis, debugging, refactoring and validation**. AI supports the workflow, but technical decisions remain grounded in source code, tests, documentation and reproducible evidence.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-Code%20Review%20%26%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-Architecture%20%26%20Review-D97757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Grok-Analysis%20%26%20Second%20Opinion-111111?style=for-the-badge"/>
+</p>
+
+### OpenAI
+
+Used for:
+
+- Code review
+- Implementation planning
+- Debugging
+- Test design
+- Refactoring
+- Security analysis
+- Repository inspection
+- Technical documentation
+- Mobile and blockchain engineering support
+
+### Claude
+
+Used for:
+
+- Architecture review
+- Large-context repository analysis
+- Specification review
+- Cross-file consistency checks
+- Task decomposition
+- Documentation validation
+- Alternative implementation analysis
+
+### Grok
+
+Used for:
+
+- Independent code review
+- Second-opinion analysis
+- Technical comparison
+- Edge-case discovery
+- Alternative design exploration
+- Fast implementation feedback
+
+### Engineering rule
+
+```text
+AI SUGGESTS.
+CODE PROVES.
+TESTS VERIFY.
+ENGINEERING DECIDES.
+```
+
+---
+
+# 🧠 Skill Matrix
+
+### ⛓️ Blockchain & Systems
+
+![Rust](https://img.shields.io/badge/Rust-90%25-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain%20Architecture-88%25-000000?style=for-the-badge)
+![Proof of Work](https://img.shields.io/badge/Proof%20of%20Work-86%25-000000?style=for-the-badge)
+![P2P](https://img.shields.io/badge/P2P%20Networking-82%25-000000?style=for-the-badge)
+![GPU Mining](https://img.shields.io/badge/GPU%20Mining-84%25-000000?style=for-the-badge)
+
+---
+
+### 💻 Development
+
+![Next.js](https://img.shields.io/badge/Next.js-90%25-000000?style=for-the-badge)
+![React](https://img.shields.io/badge/React-88%25-000000?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-92%25-000000?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-85%25-000000?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-87%25-000000?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-84%25-000000?style=for-the-badge)
+![Swift](https://img.shields.io/badge/Swift-78%25-000000?style=for-the-badge)
+
+---
+
+### 🌐 Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-90%25-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-82%25-000000?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-78%25-000000?style=for-the-badge)
+![Servers](https://img.shields.io/badge/Servers-88%25-000000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-84%25-000000?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-82%25-000000?style=for-the-badge)
+
+---
+
+### 🤖 Automation / AI
+
+![Automation](https://img.shields.io/badge/Automation-86%25-000000?style=for-the-badge)
+![AI Workflows](https://img.shields.io/badge/AI%20Workflows-88%25-000000?style=for-the-badge)
+![Code Review](https://img.shields.io/badge/AI%20Code%20Review-90%25-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-Engineering%20Assistant-000000?style=for-the-badge&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-Review%20Assistant-000000?style=for-the-badge)
+![Grok](https://img.shields.io/badge/Grok-Analysis%20Assistant-000000?style=for-the-badge)
+
+---
+
+### 🤝 Bots
+
+![Discord Bots](https://img.shields.io/badge/Discord%20Bots-84%25-000000?style=for-the-badge)
+
+---
+
+# 🧩 Technology Stack
+
+## ⛓️ Blockchain / Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp"/>
+</p>
+
+---
+
+## 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,androidstudio"/>
+</p>
+
+---
+
+## 🎨 Frontend / UI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css,vite"/>
+</p>
+
+---
+
+## ⚙️ Backend / Logic
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,prisma"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite"/>
+</p>
+
+---
+
+## 🖥 Systems / DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,cloudflare,vscode"/>
+</p>
+
+---
+
+## 🤖 Bots / Integrations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=discord"/>
+</p>
+
+---
+
+# 🔭 Current Focus
 
 ```rust
 pub struct CurrentFocus {
     pub blockchain: &'static str,
-    pub consensus: &'static str,
-    pub mining: &'static str,
     pub mobile: &'static str,
     pub infrastructure: &'static str,
+    pub full_stack: &'static str,
+    pub ai_review: &'static str,
 }
 
-let focus = CurrentFocus {
-    blockchain: "Alvenqis Network protocol reliability",
-    consensus: "Proof-of-Work validation and chain security",
-    mining: "FiroPoW and NVIDIA CUDA tooling",
-    mobile: "Production-grade Android and iOS applications",
-    infrastructure: "Self-hosted, observable and scalable systems",
+let current_focus = CurrentFocus {
+    blockchain: "Alvenqis Network protocol and ecosystem",
+    mobile: "Android and iOS product development",
+    infrastructure: "Secure self-hosted systems",
+    full_stack: "Scalable digital platforms",
+    ai_review: "OpenAI, Claude and Grok-assisted engineering",
 };
 ```
 
-My current priorities are:
+Current priorities:
 
-* Strengthening Alvenqis consensus and validation rules
-* Improving node synchronization and P2P reliability
-* Expanding wallet security and recovery architecture
-* Optimizing FiroPoW GPU mining workflows
-* Developing explorer, indexer and RPC infrastructure
-* Building mobile products for Android and iOS
-* Creating reliable deployment and operational systems
-* Keeping public project claims technically accurate and evidence-based
-
----
-
-## `06.` Engineering Principles
-
-| Principle                         | Meaning                                                   |
-| :-------------------------------- | :-------------------------------------------------------- |
-| **Code is the source of truth**   | Documentation must reflect the implementation             |
-| **Security before visibility**    | Public launch comes after verification                    |
-| **Build complete systems**        | Protocol, tooling and infrastructure must work together   |
-| **Own critical infrastructure**   | Reduce unnecessary platform dependencies                  |
-| **Separate proofs from payloads** | Store verifiable state on-chain and large data off-chain  |
-| **Measure before claiming**       | Mainnet, performance and security claims require evidence |
+- Alvenqis Network protocol development
+- Consensus validation and blockchain security
+- FiroPoW and NVIDIA CUDA mining
+- Node, wallet, RPC, indexer and explorer development
+- Android and iOS applications
+- Full-stack digital products
+- Infrastructure and deployment automation
+- AI-assisted code review
+- Multi-model technical verification
+- Security-focused engineering workflows
 
 ---
 
-## `07.` GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=andreidohot&show_icons=true&theme=github_dark&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=andreidohot&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&rank_icon=github"
     height="170"
-    alt="Andrei Dohot GitHub statistics"
+    alt="GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreidohot&layout=compact&theme=github_dark&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreidohot&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=00F0FF&text_color=FFFFFF"
     height="170"
     alt="Most used languages"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=andreidohot&theme=github-dark-blue&hide_border=true&background=050816&ring=00E5FF&fire=3B82F6&currStreakLabel=00E5FF"
-    alt="GitHub contribution streak"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=andreidohot&theme=dark&hide_border=true&background=000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=888888"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Founder-Alvenqis%20Network-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-High%20Performance%20Systems-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Expertise-Software%20%7C%20Blockchain%20%7C%20Servers-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Specialty-Automation%20%26%20AI%20Review-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile-Android%20%26%20iOS-black?style=for-the-badge"/>
+</p>
+
+---
+
+# 📈 Activity Graph
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=andreidohot&bg_color=050816&color=00E5FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=andreidohot&theme=tokyo-night&hide_border=true&bg_color=000000&color=00F0FF&line=2563EB&point=FFFFFF"
     width="100%"
     alt="GitHub activity graph"
   />
@@ -287,38 +507,49 @@ My current priorities are:
 
 ---
 
-## `08.` Project Direction
+# 🎯 Motto
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROTOCOL-VERIFY-050816?style=for-the-badge&labelColor=00B8D9" alt="Protocol"/>
-  <img src="https://img.shields.io/badge/INFRASTRUCTURE-OWN-050816?style=for-the-badge&labelColor=2563EB" alt="Infrastructure"/>
-  <img src="https://img.shields.io/badge/SECURITY-HARDEN-050816?style=for-the-badge&labelColor=4F46E5" alt="Security"/>
-  <img src="https://img.shields.io/badge/PRODUCT-SHIP-050816?style=for-the-badge&labelColor=7C3AED" alt="Product"/>
-</p>
-
-<p align="center">
-  <strong>
-    Building independent protocols, secure applications and infrastructure designed to survive beyond the prototype.
-  </strong>
+  <img src="https://img.shields.io/badge/Build-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Create-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Engineer-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Verify-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Optimize-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scale-black?style=for-the-badge"/>
 </p>
 
 ---
 
-## `09.` Explore My Work
+# ✨ Philosophy
+
+Exceptional digital systems emerge where:
+
+⚡ Engineering Discipline  
+⛓️ Protocol Integrity  
+🎨 Visual Precision  
+🧠 System Thinking  
+🤖 AI-Assisted Verification  
+🚀 Scalability  
+
+work together as a unified strategy.
+
+My engineering approach is based on a simple rule:
+
+```text
+BUILD COMPLETE SYSTEMS.
+VERIFY EVERY CLAIM.
+USE AI AS AN ASSISTANT.
+KEEP CODE AS THE SOURCE OF TRUTH.
+```
+
+---
 
 <p align="center">
   <a href="https://github.com/andreidohot/Alvenqis-Network-Main">
-    <img src="https://img.shields.io/badge/Explore-Alvenqis%20Network-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="Explore Alvenqis Network"/>
-  </a>
-  <a href="https://github.com/andreidohot?tab=repositories">
-    <img src="https://img.shields.io/badge/View-All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="View all repositories"/>
+    <img src="https://img.shields.io/badge/Alvenqis%20Network-Founder%20%26%20Creator-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00E5FF,45:0B5ED7,100:050816"
-    width="100%"
-    alt="Footer"
-  />
+  <img src="https://komarev.com/ghpvc/?username=andreidohot&color=00F0FF&style=flat-square"/>
 </p>
